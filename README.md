@@ -1,3 +1,2 @@
-### My Portfolio - [View](https://ksalokya.github.io/portfolio/)
+### My Portfolio - [View](https://salokyakumar.me)
 
-#### 🚧 Under Construction
