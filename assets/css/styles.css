@@ -428,13 +428,14 @@ section {
 }
 
 .skill .skill-img1 {
-  height: 80vh;
+  height: 75vh;
+  width: 75%;
 }
 
 @media (max-width:768px) {
   .skill .skill-img1 {
     height: 45vh;
-    width: 80%;
+    width: 75%;
     margin: 0 auto;
   }
 }
@@ -462,7 +463,7 @@ section {
 }
 
 .skill .meter .width1 {
-  width: 80%;
+  width: 85%;
 }
 
 .skill .meter .width2 {
@@ -474,15 +475,15 @@ section {
 }
 
 .skill .meter .width4 {
-  width: 85%;
+  width: 95%;
 }
 
 .skill .meter .width5 {
-  width: 80%;
+  width: 90%;
 }
 
 .skill .meter .width6 {
-  width: 90%;
+  width: 95%;
 }
 
 /*---------------------------EXPERIENCE-------------------------*/
