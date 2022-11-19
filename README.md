@@ -1,2 +1,2 @@
-### My Portfolio - [View](https://salokyakumar.me)
+### My Portfolio - [View](https://ksalokya.github.io/)
 
