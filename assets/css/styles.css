@@ -246,15 +246,15 @@ section {
   background: #333;
 }
 
-.button:nth-child(1) span a {
+.button:nth-child(1) span {
   color: #D44638;
 }
 
-.button:nth-child(2) span a {
+.button:nth-child(2) span {
   color: #0e76a8;
 }
 
-.button:nth-child(3) span a {
+.button:nth-child(3) span {
   color: #333;
 }
 
